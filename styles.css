@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+
+.main-container {
+    text-align: left;
+    padding: 20px;
+    background-color: #f5f5f5;
+    justify-content: space-between;
+}
+
+/* Individual testimonial box */
+.testimonial {
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+}
+
+
+/* Author's name */
+.author {
+    text-align: right;
+    font-style: italic;
+}
+
